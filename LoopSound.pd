@@ -1,0 +1,15 @@
+#N canvas 49 221 530 340 12;
+#X obj 83 96 spigot;
+#X obj 83 128 s loopPlay;
+#X obj 122 62 tgl 19 0 empty empty empty 0 -10 0 12 #00faff #000000 #000000 0 1;
+#X obj 248 39 r loopPlay;
+#X msg 248 81 start;
+#X obj 83 36 inlet;
+#X obj 248 129 outlet;
+#X text 63 158 SendSoundToRepeat;
+#X text 238 160 RecieveBangForRepeat;
+#X connect 0 0 1 0;
+#X connect 2 0 0 1;
+#X connect 3 0 4 0;
+#X connect 4 0 6 0;
+#X connect 5 0 0 0;
