@@ -11,10 +11,10 @@ Delivery Date: 22:00 - 24/10/2024.
 * Francisco Suárez Ramírez
 
 ## Objective:
-To Complete.
+Create a DJ system with OSC Controller (Open Sound Control) and PureData (PD) language.
 
 ## Explanation of the problem:
-To Complete.
+Based on the platforms to make a DJ system, it should be noted that most of the app widgets (sliders and buttons) should be used, where each interaction in a widget must have an auditory response in PD, so that electronic music pieces can be created in the style of a DJ, to later upload a demo to YouTube where you can see what the system can do, exemplifying a DJ-style song that does not last more than 5 minutes.
 
 ## Proposed Solution:
 To Complete.
