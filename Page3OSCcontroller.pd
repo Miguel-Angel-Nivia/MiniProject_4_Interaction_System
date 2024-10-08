@@ -1,0 +1,10 @@
+#N canvas 104 104 1366 677 12;
+#X obj 611 42 inlet OSC;
+#X obj 298 120 route gridToggle1;
+#X obj 485 120 route gridToggle2;
+#X obj 685 121 route gridToggle3;
+#X obj 895 119 route gridToggle4;
+#X connect 0 0 1 0;
+#X connect 0 0 2 0;
+#X connect 0 0 3 0;
+#X connect 0 0 4 0;

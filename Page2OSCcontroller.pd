@@ -1,0 +1,4 @@
+#N canvas 4 52 1366 677 12;
+#X obj 574 36 inlet OSC;
+#X obj 574 71 route slider2Dy;
+#X connect 0 0 1 0;
