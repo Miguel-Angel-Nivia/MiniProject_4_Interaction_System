@@ -1,4 +1,4 @@
-#N canvas 252 37 628 175 12;
+#N canvas 7 15 628 175 12;
 #X obj 285 16 bng 19 250 50 0 empty empty empty 0 -10 0 12 #00ff04 #000000 #000000;
 #X obj 180 44 print;
 #X obj 285 51 connection;
