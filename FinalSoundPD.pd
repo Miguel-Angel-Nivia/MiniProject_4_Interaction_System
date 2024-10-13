@@ -1,4 +1,4 @@
-#N canvas 7 15 628 175 12;
+#N canvas -1 5 628 220 12;
 #X obj 285 16 bng 19 250 50 0 empty empty empty 0 -10 0 12 #00ff04 #000000 #000000;
 #X obj 180 44 print;
 #X obj 285 51 connection;
@@ -6,11 +6,11 @@
 #X obj 27 103 Page1OSCcontroller;
 #X obj 176 104 Page2OSCcontroller;
 #X obj 322 104 Page3OSCcontroller;
-#X obj 467 104 Page4OSCcontroller;
-#X text 40 124 mainSounds;
-#X text 206 124 iDontKnow;
-#X text 360 125 filters;
-#X text 481 123 momentarySounds;
+#X obj 472 104 Page4OSCcontroller;
+#X text 30 125 mainConfiguration;
+#X text 516 125 Sounds;
+#X text 206 124 Controller;
+#X text 348 126 Recordings;
 #X connect 0 0 2 0;
 #X connect 2 0 1 0;
 #X connect 2 0 4 0;
