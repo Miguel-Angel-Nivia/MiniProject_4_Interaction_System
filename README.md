@@ -23,7 +23,9 @@ to carry out the work we first thought about looking for how a DJ system similar
 In conclusion, I think we did a good job covering what was requested in the requirements to be able to correctly create the music, relying on YouTube videos and a documentation book to be able to correctly manage the pure data application with OSC Controller.
 
 ### Video
-To Complete.
+Link to the video on YouTube: [DJ in pure data with OSC controller](https://youtu.be/NU3P-PE3wfs)
+
+[![Watch the video](https://img.youtube.com/vi/NU3P-PE3wfs/0.jpg)](https://youtu.be/NU3P-PE3wfs)
 
 ## References:
 * [PureData](https://puredata.info)
